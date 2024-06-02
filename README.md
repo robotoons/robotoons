@@ -4,10 +4,10 @@ Hello and welcome to the Robotoons GitHub repository!
 
 At Robotoons, we're passionate about blending hardware with ***robotics***, ***electronics***, and ***artificial intelligence*** to create groundbreaking **narrative experiences** and **innovative gameplay**. Our mission is to seamlessly integrate video game mechanics with storytelling for young audiences, powered by cutting-edge electronic and robotic technologies.
 
-<p float="left">
-  <img src="docs/images/bookled_with_pc.jpg" alt="BookLed connected to a PC" width="300">
-  <img src="docs/images/bosmi_bn_lowres_2.jpg" alt="BoSMi the robomouse" width="300">
-</p>
+<div style="display: flex; align-items: flex-start;">
+  <img src="docs/images/bookled_with_pc.jpg" alt="BookLed connected to a PC" style="height: 250px; margin-right: 100px;">
+  <img src="docs/images/bosmi_bn_lowres_2.jpg" alt="BoSMi the robomouse" style="height: 250px;">
+</div>
 
 ## Our Vision
 
