@@ -15,7 +15,7 @@ We strive to combine electronics, AI and storytelling using **open-source** soft
 
 ## What You'll Find Here
 
-In this GitHub repository, you'll discover the code for **BookLed**—a traditional paper book that's enhanced with generative AI to deliver a unique storytelling experience. But that's not all—stay tuned for **BoSMi**, the robotic mouse that’s set to revolutionize interactive storytelling and play. Exciting times are ahead, and we can't wait to share them with you!
+In this GitHub repository, you'll discover the code for **BookLed**—a traditional paper book that's enhanced with **generative AI** to deliver a unique storytelling experience. But that's not all—stay tuned for **BoSMi**, the robotic mouse that’s set to revolutionize **interactive storytelling** and play. Exciting times are ahead, and we can't wait to share them with you!
 
 ## Where to Buy the Hardware
 
