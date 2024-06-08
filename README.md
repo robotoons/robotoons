@@ -21,7 +21,7 @@ In this GitHub repository, you'll discover the code for **BookLed**—a traditio
 
 <a href="https://www.tindie.com/stores/robotoons/?ref=offsite_badges&utm_source=sellers_robotoons&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
 
-You can purchase the open hardware for BookLed directly from our store on [Tindie](https://www.tindie.com/products/robotoons/bookled/). Get ready to dive into a new world of augmented storytelling and creative play with Robotoons!
+You can purchase the open hardware for BookLed directly from our store on [Tindie](https://www.tindie.com/products/robotoons/bookled/). Get ready to dive into a new world of AI augmented storytelling and creative play with Robotoons!
 <!---
 robotoons/robotoons is a ✨ special ✨ repository containing open FW and open SW for Robotoons open HW products.
 --->
