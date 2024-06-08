@@ -11,7 +11,7 @@ At Robotoons, we're passionate about blending hardware with ***robotics***, ***e
 
 ## Our Vision
 
-We strive to combine the immersive gameplay of video games with captivating storytelling, using **open-source** software and firmware. This approach allows everyone to modify, enhance, and expand upon our creations, fostering a community of innovation and collaboration.
+We strive to combine electronics, AI and storytelling using **open-source** software and firmware. This approach allows everyone to modify, enhance, and expand upon our creations, fostering a community of innovation and collaboration.
 
 ## What You'll Find Here
 
